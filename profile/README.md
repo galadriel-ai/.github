@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://galadriel.com" style="max-width: 100px;" target="_blank">
-        <img src="Galadriel.svg">
+        <img src="https://raw.githubusercontent.com/galadriel-ai/.github/main/Galadriel.svg">
     </a>
 </p>
 <p align="center">
