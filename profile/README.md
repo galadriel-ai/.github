@@ -4,7 +4,7 @@
     </a>
 </p>
 <p align="center">
-    Galadriel is the first Layer 1 for AI.
+    Galadriel is building infinite LLM inference through the world’s largest distributed inference network.
 </p>
 <p align="center">
     <a href="https://discord.com/invite/bHnFgSTKrP" target="_blank"><img src="https://img.shields.io/discord/1133675019478782072?label=Join%20Discord"></a><a href="https://twitter.com/e2b_dev" target="_blank"><img src="https://img.shields.io/twitter/follow/Galadriel_AI"></a>
